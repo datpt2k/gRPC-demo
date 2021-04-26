@@ -1,0 +1,4 @@
+com\grpc\user\service\UserService.class
+com\grpc\user\entity\User.class
+com\grpc\user\repository\UserRepository.class
+com\grpc\user\UserApplication.class

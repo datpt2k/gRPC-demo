@@ -1,0 +1,4 @@
+com\grpc\movie\repository\MovieRepository.class
+com\grpc\movie\entity\Movie.class
+com\grpc\movie\MovieApplication.class
+com\grpc\movie\service\MovieService.class
