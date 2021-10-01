@@ -17,3 +17,7 @@ public class Movie {
     private double rating;
     private String genre;
 }
+//tét
+// commit thử này
+// nếu chưa ai commit vào cái branch đấy thì mình chuwua cần pull code về
+//muốn push chỉ cần commit rồi púh

@@ -10,3 +10,6 @@ public class MovieApplication {
         SpringApplication.run(MovieApplication.class, args);
     }
 }
+//master này là branch hiện tại
+// khi có 1 file thay đổi nó thông báo ở đây
+// cái nãy là so sánh file thay đổi
